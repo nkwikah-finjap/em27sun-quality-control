@@ -1,0 +1,20 @@
+{
+  "input_rows": 26,
+  "utc_days": 2,
+  "daily_stage_removed": 0,
+  "hourly_stage_removed": 0,
+  "accepted_rows": 26,
+  "max_column_reconstruction_difference_ppm": {
+    "XCO2": 0.001296936990456743,
+    "XCH4": 6.830233392429719e-06,
+    "XCO": 7.822874296126159e-07
+  },
+  "max_simple_ratio_difference_ppm": {
+    "XCO2": 3.8772023615580338,
+    "XCH4": 0.008511582694574749,
+    "XCO": 0.002781046603745632
+  },
+  "reconstruction_note": "Uses documented AICF/angular/time-dependent oxygen corrections and the supplied XH2O. Remaining differences reflect rounded input/output fields; not an independent spectral retrieval.",
+  "scope": "Real small reference dataset. Post-retrieval audit; not raw-to-column reprocessing.",
+  "synthetic_anomaly_experiment_removed_rows": 1
+}
